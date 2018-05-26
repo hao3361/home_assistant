@@ -1,0 +1,16 @@
+climate.master_bedroom:
+  name:
+  platform: nest
+  unique_id: Mo9wCwY6AMtGCUaJIPuO_A2TZuoUwaWR
+climate.living_room:
+  name:
+  platform: nest
+  unique_id: dsIW2x_c02ftEO6EtH8vuA2TZuoUwaWR
+sensor.iphone_battery_level:
+  name:
+  platform: ios
+  unique_id: level_iphone
+sensor.iphone_battery_state:
+  name:
+  platform: ios
+  unique_id: state_iphone
